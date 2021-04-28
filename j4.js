@@ -129,16 +129,16 @@
 
 		function k() {
 			c.call(this, {
-				src: "../crate.jpg"
+				src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/RoofSouth.png"
 			}, 150, 150, 150)
 		}
 
 		function p() {
 			f.call(this, {
-				src: "../drum2.png"
+				src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/TreeTall.png"
 			}, 100, 196, 12);
 			this.add(new q({
-				src: "../drum2.png",
+				src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/TreeTall.png",
 				x: 0,
 				y: 196,
 				ra: 102,
@@ -153,64 +153,64 @@
 		p.prototype = w.prototype;
 		var g = new b;
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 2E3, 700), 0, -350, -700, 0, 0, 0);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1E3, 700), 500, -350, 300, 0, 180, 0);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1E3, 700), 1E3, -350, -200, 180, 270, 0);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 500, 1100), 0, -550, 550, 0, 270, 0);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 600, 700), -700, -350, 300, 0, 180, 0);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1E3, 700), -1E3, -350, -200, 0, 90, 0);
 		g.add(new q({
-			src: "../floor.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 2E3, 1E3, !1), 0, 0, -200, 90, 0, 0);
 		g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 2E3, 1E3, !1), 0, -700, -200, 270, 0, 0);
 		for (var l = -1; 1 >= l; l++) g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 100, 650), 75 + 552 * l, -325, -650, 0, 0, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 50, 650), 125 + 552 * l, -325, -675, 0, 90, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 50, 650), 25 + 552 * l, -325, -675, 0, 270, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 100, 1E3), 75 + 552 * l, -650, -200, 270, 0, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 1E3, 50), 125 + 552 * l, -675, -200, 0, 90, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 1E3, 50), 25 + 552 * l, -675, -200, 0, 270, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 100, 650), 75 + 552 * l, -325, 250, 0, 180, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 50, 650), 125 + 552 * l, -325, 275, 0, 90, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 50, 650), 25 + 552 * l, -325, 275, 0, 270, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 101, 650), 75 + 552 * l, -325, -225, 0, 180, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 101, 650), 75 + 552 * l, -325, -125, 0, 0, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 101, 650), 125 + 552 * l, -325, -175, 0, 90, 0), g.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 101, 650), 25 + 552 * l, -325, -175, 0, 270, 0);
 		g.add(new f({
-			src: "../pipe2.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/starky-seed.png"
 		}, 60, 2E3, 16), 0, -610, 180, 90, 0, 90);
 		g.add(new f({
-			src: "../pipe2.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/starky-seed.png"
 		}, 40, 700, 12), 960, -350, -500, 0, 180, 0);
 		g.add(new f({
-			src: "../pipe2.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/starky-seed.png"
 		}, 40, 700, 12), 960, -350, -420, 0, 180, 0);
 		g.add(new k, -800, -75, -470);
 		g.add(new k, -820, -225, -380, 0, 15);
@@ -231,16 +231,16 @@
 			a: 0
 		}), -170, -820, 840);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 400, 400), -200, -900, 300, 0, 0, 0);
 		g.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1E3, 1100), -400, -550, 800, 0, 90, 0);
 		for (l = 0; 10 > l; l++) g.add(new q({
-			src: "../floor.jpg",
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png",
 			y: 100 * l
 		}, 400, 50), -201, 50 * -l - 25, 50 * l + 300, 0, 180), g.add(new q({
-			src: "../floor.jpg",
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png",
 			y: 100 * l + 50
 		}, 400, 50), -201, 50 * -l - 50, 50 * l + 325, 90);
 		g.add(new z(105, 1, {
@@ -250,19 +250,19 @@
 		}), 70, -600, -400);
 		l = new b;
 		l.add(new q({
-			src: "../floor.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 1400, 500), -200, 0, 0, 90, 0, 0);
 		l.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1E3, 600), 0, -300, -250, 0, 0, 0);
 		l.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1400, 600), -200, -300, 250, 0, 180, 0);
 		l.add(new q({
-			src: "../ceil.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/StoneBlockTall.png"
 		}, 1400, 1E3), -200, -600, -250, 270, 0, 0);
 		l.add(new q({
-			src: "../wall.jpg"
+			src: "https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png"
 		}, 500, 600), 500, -300, 0, 0, 270, 0);
 		l.add(new k, -600, -75, 140, 0, -15);
 		l.add(new p, -100, -98, -120, 0, 0);
