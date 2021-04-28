@@ -896,7 +896,7 @@
 			};
 		U(u.A);
 		k = f = c = b = a = !1;
-		q.ka("../map.png", function() {
+		q.ka("https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/WoodBlock.png", function() {
 			var a;
 			h.className = "";
 			m.className = "";
