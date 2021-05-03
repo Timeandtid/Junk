@@ -40,4 +40,3 @@ export const math = (function() {
     },
   };
 })();
-© 2021 GitHub, Inc.
